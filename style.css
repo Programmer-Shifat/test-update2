@@ -1,11 +1,14 @@
-body{
-    background-color: rgb(240, 145, 145);
-}
+
 .container{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .box{
     border: 1px solid black;
     margin: 5px;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(235, 99, 99);
+    
 }
