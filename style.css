@@ -36,12 +36,13 @@
       clip-path: polygon(77% 0, 100% 54%, 31% 89%, 0 70%, 0 35%); */
       
   /* } */
-  .box20Container{
+  .containerbox{
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
   }
   .box20{
+    text-align: center;
     color: rgb(253, 250, 250);
     background-color: green;
     height: 200px;
