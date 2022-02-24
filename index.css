@@ -12,14 +12,14 @@
     background-color: rgb(235, 99, 99);
     
 } */
-.container1{
+.container{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
     /* background: linear-gradient(red, rgb(238, 131, 131), green); */
 }
-.box1{
+.box{
     width: 200px;
     height: 200px;
     color: rgb(18, 19, 19);
