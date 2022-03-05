@@ -1,5 +1,6 @@
 *{
     overflow: auto;
+    text-decoration: none;
   }
   .topbar{
     background-color: rgb(255, 174, 0);
@@ -37,3 +38,21 @@
       color: rgb(24, 209, 24)
   }
   
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 50px;
+    text-align: center;
+    
+}
+.child{
+    margin: 5px;
+    border: 1px solid black;
+    padding: 3px;
+    background-color: coral;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
